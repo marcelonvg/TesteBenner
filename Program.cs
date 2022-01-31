@@ -68,9 +68,9 @@ class Network {
         g.connect(2, 4);
         g.connect(4, 2);
         g.connect(5, 8);
-		g.connect(6, 2);
-		g.connect(6, 1);
-		g.connect(8, 5);
+	g.connect(6, 2);
+	g.connect(6, 1);
+	g.connect(8, 5);
         
  
         Console.Write(g.query(1, 5));
