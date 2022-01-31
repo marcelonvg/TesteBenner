@@ -1,0 +1,16 @@
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\Projeto Benner.exe
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\Projeto Benner.deps.json
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\Projeto Benner.runtimeconfig.json
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\Projeto Benner.runtimeconfig.dev.json
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\Projeto Benner.dll
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\ref\Projeto Benner.dll
+C:\Users\marce\Desktop\Projeto Benner\bin\Debug\net5.0\Projeto Benner.pdb
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.AssemblyInfo.cs
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.dll
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\ref\Projeto Benner.dll
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.pdb
+C:\Users\marce\Desktop\Projeto Benner\obj\Debug\net5.0\Projeto Benner.genruntimeconfig.cache
